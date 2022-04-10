@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaiquepereira1
-- 👀 I’m interested in app development
+- 👀 I’m interested in web/app development
 - 🌱 I’m currently learning Java Script
 - 📫 How to reach me kaiquepds16@gmail.com
 
